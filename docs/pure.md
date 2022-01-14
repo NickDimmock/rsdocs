@@ -30,12 +30,12 @@ An example of a research item returned by the search function:
 
 ## Putting your impact in Pure
 
-The Pure impact section allows you to make research impact public. Let people know how your work is affecting, benefiting and changing the world. It can also serve as tool for other researchers through its links to your outputs, and help us internally as we prepare for the next REF cycle (and you don’t have to make everything public). It’s never too early to start tracking your impact in Pure.
+The Pure Impact section allows you to make research impact public. Let people know how your work is affecting, benefiting and changing the world. It can also serve as tool for other researchers through its links to your outputs, and help us internally as we prepare for the next REF cycle (and you don’t have to make everything public). It’s never too early to start tracking your impact in Pure.
 
-> [!NOTE]
-> If you’ve never used the impact section of Pure before, you might want to look at how to create an impact in the [Pure Handbook](https://www.yammer.com/northampton.ac.uk/#/files/172063681?version=174674105) first.  
+!!! note
+    If you’ve never used the impact section of Pure before, you might want to look at how to create an impact in the [Pure Handbook](https://www.yammer.com/northampton.ac.uk/#/files/172063681?version=174674105) first.  
 
-- PURE **Impact** builds on the **outputs, activities** and **projects** that comprise your work, and asks you to articulate where your pathways to impact have led. It allows you to build an impact story, and communicate your research to wider audiences
+- Pure Impact builds on the **outputs, activities** and **projects** that comprise your work, and asks you to articulate where your pathways to impact have led. It allows you to build an impact story, and communicate your research to wider audiences
 - Remember, this is about the impact your research has had, not its potential or pathway to impact. Write your description in the third person, clearly identify the actual change your research has achieved and include evidence to back up your claims.
 - Write for the general public (specialist audiences can always click on the linked research output for a more in-depth view)
 - Pure is for an international audience, so spell out acronyms even if they seem obvious to you, i.e. the NHS
@@ -58,18 +58,7 @@ For help on using the system, refer to the Pre-Award and Post-Award User Guides 
 - [Pre-Award User Guide](https://mypad.northampton.ac.uk/rifs/bidding-for-funding/pure-award-management-approval-process/)
 - [Post Award User Guide](https://mypad.northampton.ac.uk/rifs/post-award-support/pure-award-management-creating-an-award-and-project/)
 
-## Research impact in Pure
-
-- You can track your [research impact](research-impact.md) on Pure. See the [Pure Handbook](https://www.yammer.com/northampton.ac.uk/#/files/172063681?version=174674105) for information on the technical details, and for tips on best practice take a look at the guide to putting your impact in Pure
-- Impact is an important part of UK Research and Innovation Funding applications. Find out more about how the different research councils approach impact in the [impact funding guidelines](research-impact.md).
-
 ## Pure help &amp; support
 
-- [Pure Award Management- Pre Award User Guide Version 0.4 (Opens in a new window)](https://libguides.northampton.ac.uk/ld.php?content_id=33223094)
-- [Pure Award Management- Post Award User Guide Version 0.5 (Opens in a new window)](https://libguides.northampton.ac.uk/ld.php?content_id=33223127)
-
-[Pure Handbook](https://www.yammer.com/northampton.ac.uk/#/files/172063681?version=174674105)
-
-[Email to arrange Pure training](mailto:pure@northampton.ac.uk?subject=Training%20enquiry)
-
-[Email for help on using the system](mailto:rifs@northampton.ac.uk)
+- [Pure Handbook](https://www.yammer.com/northampton.ac.uk/#/files/172063681?version=174674105)
+- [Contact the Pure team](mailto:pure@northampton.ac.uk) with enquiries or to arrange training.
