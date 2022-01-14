@@ -1,2 +1,0 @@
-# rsdocs
-Research Support docs
