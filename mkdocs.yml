@@ -18,6 +18,7 @@ nav:
     - metrics.md
     - research-impact.md
     - affiliation.md
+    - citation-management.md
     - open-access.md
 
 markdown_extensions:
