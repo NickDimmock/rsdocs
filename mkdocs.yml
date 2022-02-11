@@ -1,8 +1,9 @@
 site_name: Research Support
 
 theme:
-  name: readthedocs
-  custom_dir: custom_theme
+  name: material
+  features:
+    - toc.integrate
 
 nav:
   - index.md
@@ -24,3 +25,6 @@ nav:
 markdown_extensions:
   - attr_list
   - admonition
+  - md_in_html
+
+extra_css: [extra.css]
