@@ -47,11 +47,11 @@ There are several ways to save items to your library:
 The [Zotero plugin for Word](https://www.zotero.org/support/word_processor_plugin_usage) is installed along with the desktop app, enabling you to create and manage in-text citations and bibliographies.
 
 <figure markdown>
-  ![Selecting an item from the Zotero library](img/zotero-cite-selection.png){ width="50%" }
+  ![Selecting an item from the Zotero library](img/zotero-cite-selection.png){ width="640px" }
   <figcaption>Selecting an item from the Zotero library.</figcaption>
 </figure>
 
-![The citation is added using your selected style](img/zotero-cite-in-text.png){ width="50%" }
+![The citation is added using your selected style](img/zotero-cite-in-text.png){ width="640px" }
 
 *The citation is added using your selected style.*
 
@@ -59,7 +59,7 @@ The [Zotero plugin for Word](https://www.zotero.org/support/word_processor_plugi
 
 *Citation style can be changed at any time throughout your document.*
 
-![Different bibliography styles using Zotero](img/zotero-bib-styles.png)
+![Different bibliography styles using Zotero](img/zotero-bib-styles.png){ width="640px"}
 
 *Zotero allows you change bibliography styles at any stage.*
 
